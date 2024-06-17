@@ -1,4 +1,4 @@
-# Get-Filehashes.ps1
+# GetHashes.ps1
 
 This PowerShell script prompts the user for a file path and computes MD5, SHA1, and SHA256 hashes for the specified file. The script then saves the computed hashes to an output file, ensuring the output directory is valid and writable.
 
